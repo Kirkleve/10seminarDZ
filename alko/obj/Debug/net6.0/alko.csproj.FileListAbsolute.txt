@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\bin\Debug\net6.0\alko.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\bin\Debug\net6.0\alko.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\bin\Debug\net6.0\alko.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\bin\Debug\net6.0\alko.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\bin\Debug\net6.0\alko.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\refint\alko.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\alko.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\alko\obj\Debug\net6.0\ref\alko.dll
