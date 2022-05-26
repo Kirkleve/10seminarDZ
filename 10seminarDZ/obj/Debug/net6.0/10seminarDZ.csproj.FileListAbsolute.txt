@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\bin\Debug\net6.0\10seminarDZ.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\bin\Debug\net6.0\10seminarDZ.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\bin\Debug\net6.0\10seminarDZ.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\bin\Debug\net6.0\10seminarDZ.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\bin\Debug\net6.0\10seminarDZ.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\refint\10seminarDZ.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\10seminarDZ.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Комьюнити\10seminarDZ\10seminarDZ\obj\Debug\net6.0\ref\10seminarDZ.dll
