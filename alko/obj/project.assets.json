@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\alko\\alko.csproj",
-      "projectName": "alko",
-      "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\alko\\alko.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\alko\\Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\alko\\Task2.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\alko\\obj\\",
       "projectStyle": "PackageReference",

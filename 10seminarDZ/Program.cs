@@ -32,21 +32,37 @@ for (int i = 1; i <= number; i++)
         groop++;
         Console.Write($"{groop}-я группа");
     }
-    if (isSimple(i, groop ))
+    if (Evklid(i, number ))
     {
         primeNumber = i.ToString();
         Console.Write(primeNumber + " ");
     }
 }
 
-bool isSimple(int N, int ind)
+bool Evklid(int m, int n)
 {
-    for (int i = ind; i <= (N / 2); i++)
+    int nod;
+    while (m != n)
     {
-        if (N % i == 0)
-            return false;
+        if (m > n)
+        {
+            m -= n;
+        }
+        else
+        {
+            n -= m;
+        }
     }
-    return true;
+    nod = n;
+
+    if (nod == 1)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
 }
 
 

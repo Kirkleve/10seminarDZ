@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\10seminarDZ\\10seminarDZ.csproj",
-      "projectName": "10seminarDZ",
-      "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\10seminarDZ\\10seminarDZ.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\10seminarDZ\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\10seminarDZ\\Task1.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Комьюнити\\10seminarDZ\\10seminarDZ\\obj\\",
       "projectStyle": "PackageReference",
