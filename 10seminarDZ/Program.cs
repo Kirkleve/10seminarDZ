@@ -11,7 +11,6 @@
 Группа 4: 8 12 18 20 27 28 30 42 44 45 50
 Группа 5: 7 16 24 36 40
 Группа 6: 5 32 48
-
 Или
 Группа 1: 1
 Группа 2: 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
@@ -21,39 +20,9 @@
 Группа 6: 32 48
 */
 
-int n = InputElement("Введите число N");
-int[] group = new int[n];
-/*
-for(int i = 2; i<= group.Length; i*=2)
+bool isSimple(int N, int ind)
 {
-
-    for (int j = 1; j <= group.Length; j++)
-    {
-        
-        if (PrimeNumber(j) && i < n)
-        {
-            Console.Write(j + " ");
-        }
-    }
-}
-*/
-
-
-
-for (int i = 4; i <= n; i++)
-{
-    if (PrimeNumber(i))
-    {
-        Console.Write(i + " ");
-    }
-}
-
-
-
-
-bool PrimeNumber(int N)
-{
-    for (int i = 2; i <= (int)(N / 2); i++)
+    for (int i = ind; i <= (int)(N / 2); i++)
     {
         if (N % i == 0)
             return false;
@@ -61,8 +30,23 @@ bool PrimeNumber(int N)
     return true;
 }
 
-int InputElement(string output)
+Console.Write("Введите N: ");
+int number = int.Parse(Console.ReadLine());
+int groop = 0;
+string array = String.Empty;
+for (int i = 1; i <= number; i++)
 {
-    Console.Write(output + ": ");
-    return Convert.ToInt32(Console.ReadLine());
+    if (i == Math.Pow(2, groop))
+    {
+        Console.WriteLine();
+        groop++;
+        Console.Write($"{groop}-я группа");
+    }
+    if (isSimple(i, i))
+    {
+        array = i.ToString();
+        Console.Write(array + " ");
+    }
 }
+
+
