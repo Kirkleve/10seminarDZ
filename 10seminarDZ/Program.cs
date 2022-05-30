@@ -20,20 +20,10 @@
 Группа 6: 32 48
 */
 
-bool isSimple(int N, int ind)
-{
-    for (int i = ind; i <= (int)(N / 2); i++)
-    {
-        if (N % i == 0)
-            return false;
-    }
-    return true;
-}
-
 Console.Write("Введите N: ");
 int number = int.Parse(Console.ReadLine());
 int groop = 0;
-string array = String.Empty;
+string primeNumber = String.Empty;
 for (int i = 1; i <= number; i++)
 {
     if (i == Math.Pow(2, groop))
@@ -42,11 +32,21 @@ for (int i = 1; i <= number; i++)
         groop++;
         Console.Write($"{groop}-я группа");
     }
-    if (isSimple(i, i))
+    if (isSimple(i, groop ))
     {
-        array = i.ToString();
-        Console.Write(array + " ");
+        primeNumber = i.ToString();
+        Console.Write(primeNumber + " ");
     }
+}
+
+bool isSimple(int N, int ind)
+{
+    for (int i = ind; i <= (N / 2); i++)
+    {
+        if (N % i == 0)
+            return false;
+    }
+    return true;
 }
 
 
